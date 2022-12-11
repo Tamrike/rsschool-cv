@@ -7,8 +7,28 @@
 
 ****
 
+### **About me**
+I am Tamara Lapkovich, I have been working as an accountant for 11 years. I decided to try my hand at Front-End Development, because I took courses in HTML and CSS, and I was fascinated by it. I like to study and learn new things, quite sociable and lively. In my free time, I try not to lose my barber skills.
+
+****
+
 ### **Skills:**
 HTML5, CSS3 Basics
+
+****
+
+### **Code example**
+``` 
+function multiplication (a, b) {
+
+       return a*b;
+
+       }
+       
+   let result = multiplication (7, 6);
+   
+   alert ( result ); 
+   ```
 
 ****
 
