@@ -3,6 +3,8 @@
 ### Contact me
 tamrike@gmail.com
 
+discord-name: Timka#1133
+
 Belgrad, Serbia
 ******************
 ### About me
