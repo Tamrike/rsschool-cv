@@ -35,8 +35,6 @@ Minsk Financial and Economic College, 2009-2012
 ### Languages
 English - A2
 
-Polish - A1
-
 Russian - С2
 
 Belarusian - B1
